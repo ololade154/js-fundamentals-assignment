@@ -1,14 +1,14 @@
-//variables
+//declaraion of variables
 let num1 = 20;
 let num2 = 2;
-//calculaions
+//calculations
 const addition = num1 + num2;
 const subtraction = num1 - num2;
 const multiplication = num1 * num2;
 const division = num1 / num2;
 const modulus = num1 % num2;
 const exponent = num1 ** num2;
-// Output
+// output
 console.log(`Addition: ${num1} + ${num2} = ${addition}`);
 console.log(`Subtraction: ${num1} - ${num2} = ${subtraction}`);
 console.log(`Multiplication: ${num1} * ${num2} = ${multiplication}`);

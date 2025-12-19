@@ -11,5 +11,6 @@ for (number; number <= 20; number++) {
     oddCount++;
   }
 }
+//outputs
 console.log(result);
 console.log(`\nSummary: Even numbers: ${evenCount} Odd numbers: ${oddCount}`);
